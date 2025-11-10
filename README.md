@@ -5,6 +5,6 @@ This repository implements the Quine-McCluskey (QM) method, a powerful and syste
 
 ```
 - QM_method.cpp           # main func w/ test cases  
-- QM_submit.cpp    # mian func for online judge
+- QM_submit.cpp    # for online judge
 ```
 The rests are testing files for costom functions  
